@@ -13,4 +13,4 @@
 
 📫 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=for-the-badge)](https://your-portfolio.com)  
+[![Portfolio](  
